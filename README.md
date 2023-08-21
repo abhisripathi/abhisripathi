@@ -14,8 +14,9 @@
 
 <br />
 <h3> About Me  🚀 </h3>
+<p>I am currently pursuing my Master's in Computer Science at Northern Arizona University</p>
 <p>
-🔭 I'm a passionate Software Engineer with a knack of learning something new everyday.
+🔭 I'm a Former Application Development Associate at Accenture.
 </p><p>
 📎 In my free time I love to learn about latest technologies and work on my logic building skills.
 </p><p>
@@ -31,8 +32,8 @@
 
 <br>
 
-- 💻  &nbsp; Data Structures & Algorithms | Java   
-- 🌐  &nbsp; HTML | CSS |
+- 💻  &nbsp; Data Structures & Algorithms | Java | C++
+- 🌐  &nbsp; HTML | CSS | JS | MERN stack
 - 🐍  &nbsp; Machine Learning | Python | Jupyter | OpenCV
 - ☁  &nbsp; Operating System | Database | SQL
 - 🔧  &nbsp; Visual Studio code |PyCharm | Anaconda | Git | Github
