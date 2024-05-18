@@ -1,15 +1,15 @@
 ## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Purnabhishek Sripathi!
-<a href="https://www.linkedin.com/in/purnabhishek-sripathi" />
-  <img align="left" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
+<a href="https://www.linkedin.com/in/purnabhishek-sripathi" target="_blank">
+  <img align="left" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" style="fill: #0A66C2;" />
 </a>
-<a href="https://twitter.com/AbhiSripathi">
-  <img align="left" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+<a href="https://twitter.com/AbhiSripathi" target="_blank">
+  <img align="left" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" style="fill: #1DA1F2;" />
 </a>
-<a href="mailto:abhisripathi5@gmail.com">
-  <img align="left" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+<a href="mailto:abhisripathi5@gmail.com" target="_blank">
+  <img align="left" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" style="fill: #EA4335;" />
 </a>
-<a href="https://medium.com/@abhisreepathi">
-  <img align="left" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
+<a href="https://medium.com/@abhisreepathi" target="_blank">
+  <img align="left" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" style="fill: #000000;" />
 </a>
 
 <br />
