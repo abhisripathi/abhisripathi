@@ -47,10 +47,11 @@ Currently pursuing opportunities in IT Support, Infrastructure Support, Producti
 
 - 💻  &nbsp; Infrastructure & Operations: Linux | Windows | SQL | AWS | Incident Management | Root Cause Analysis | Monitoring & Troubleshooting | Enterprise Systems Support
 - 🌐  &nbsp; Networking: TCP/IP | DNS | DHCP | OSI Model | Network Troubleshooting
+- 🌐  &nbsp;Application Monitoring & Log Analysis
 - 🐍  &nbsp; Machine Learning | Python | Jupyter | OpenCV
 - ☁  &nbsp; Operating System | Database | SQL | postgreSQL
 - 🔧  &nbsp; Visual Studio code |PyCharm | Anaconda | Git | Github 
-- 🔧  &nbsp; Current Focus: IT Support Engineering | Infrastructure Support Engineering | Cloud Operation | Production Support | Data Center Technologies
+- 🔧  &nbsp; Current Focus: IT Support Engineering | Infrastructure Support Engineering | Cloud Operations | Production Support | Enterprise Systems | Data Center Operations
 
 
 
