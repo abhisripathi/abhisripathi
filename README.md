@@ -15,38 +15,43 @@
 <br />
 <h3> About Me  🚀 </h3>
 <p>
-Hello! I’m an experienced Java Developer with a Master of Science in Computer Science from Northern Arizona University.
+Infrastructure Support and Software Professional with experience supporting enterprise applications, production environments, cloud services, and business-critical systems across Deloitte, American Express, McKinsey, and Accenture.
 
-🔭 My career began at Accenture in Hyderabad, India, where I honed my skills in various programming languages like Java, HTML, CSS, and JavaScript. I was part of a dynamic Java team, involved in researching, analyzing, executing, writing, and testing code. My focus was on developing robust web applications using frameworks like Struts and managing databases with MySQL and PL/SQL.
 
-I have a track record of enhancing efficiency in projects, particularly in the Automobile and E-Commerce sectors, and I take pride in maintaining a 100% success rate in production issue resolution and project delivery.
+🔭 My experience includes:
 
-During my time at Northern Arizona University, I balanced my studies with a Teaching Assistant role. I assisted in Computer Science courses covering Internet Literacy, Algorithms, and Computer Networks. My role involved clarifying complex concepts for students, collaborating with faculty on course content, and fostering an interactive learning environment.
+• Production Support & Incident Management
+• Root Cause Analysis (RCA)
+• Linux & SQL Troubleshooting
+• AWS Cloud Services
+• Enterprise Application Support
+• Infrastructure Monitoring
+• System Reliability & Operations
+• Networking Fundamentals (TCP/IP, DNS, DHCP)
+• Cross-functional Technical Support
 
-I am passionate about leveraging technology to solve real-world problems and am always eager to learn new things. My experience has taught me the importance of effective communication, teamwork, and a detail-oriented approach in technology and education.
+I enjoy solving operational issues, troubleshooting complex systems, improving reliability, and supporting business-critical environments.
 
-As I continue my journey in tech, I am open to opportunities and connections that align with my interests in software development and research in computer science.
-experience and skills.</p>
+Currently pursuing opportunities in IT Support, Infrastructure Support, Production Support, Cloud Operations, and Systems Engineering.</p>
 <p>
-📎 In my free time I love to learn about latest technologies and work on my logic building skills.
+📎 In my free time I love to learn about latest technologies.
 </p><p>
 📚 Self Motivation + Commitment + Technology + Ideas + Team Player + Optimism - Motto of my life!
 </p><p>
-🌱 Enthusiast in Open Source, Web Development.</p>
-<p>
-🤔 Exploring newer technologies and developing software solutions and quick hacks.</p>
-<p>
-☕ Coffee can be the ultimate solution for any stress. Coffee <-> Code </p>
+🌱 Enthusiast in Open Source.</p>
+
 <h3>🛠 Tech Stack</h3>
 
 
 <br>
 
-- 💻  &nbsp; Data Structures & Algorithms | Java | Struts
-- 🌐  &nbsp; HTML | CSS | JS | Spring | Spring Boot | 
+- 💻  &nbsp; Infrastructure & Operations: Linux | Windows | SQL | AWS | Incident Management | Root Cause Analysis | Monitoring & Troubleshooting | Enterprise Systems Support
+- 🌐  &nbsp; Networking: TCP/IP | DNS | DHCP | OSI Model | Network Troubleshooting
 - 🐍  &nbsp; Machine Learning | Python | Jupyter | OpenCV
 - ☁  &nbsp; Operating System | Database | SQL | postgreSQL
-- 🔧  &nbsp; Visual Studio code |PyCharm | Anaconda | Git | Github
+- 🔧  &nbsp; Visual Studio code |PyCharm | Anaconda | Git | Github 
+- 🔧  &nbsp; Current Focus: IT Support Engineering | Infrastructure Support Engineering | Cloud Operation | Production Support | Data Center Technologies
+
 
 
 </br>
