@@ -15,7 +15,7 @@
 <br />
 <h3> About Me  🚀 </h3>
 <p>
-Infrastructure Support and Software Professional with experience supporting enterprise applications, production environments, cloud services, and business-critical systems across Deloitte, American Express, McKinsey, and Accenture.
+Java Application Developer / Support and Software Professional with experience supporting enterprise applications, production environments, cloud services, and business-critical systems across Deloitte, American Express, McKinsey, and Accenture.
 
 
 🔭 My experience includes:
